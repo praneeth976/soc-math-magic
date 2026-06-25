@@ -1,3 +1,8 @@
+# VAE is an intelligent way for generative Neural Networks
+# the code is the succession of the math discussed before
+# Two Neural Networks are trained namely encoder , decoder 
+# the whole architecture is inbuilt in the module nn
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
